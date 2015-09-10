@@ -43,4 +43,5 @@
     <build>
         <finalName>${project.artifactId}</finalName>
     </build>
+    <name>SMARTNURSE</name>
 </project>
